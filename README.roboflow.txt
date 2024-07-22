@@ -1,8 +1,8 @@
 
-tf-lite - v2 2024-06-05 2:11pm
+tf-lite - v3 2024-07-22 10:45am
 ==============================
 
-This dataset was exported via roboflow.com on July 17, 2024 at 9:08 AM GMT
+This dataset was exported via roboflow.com on July 22, 2024 at 10:53 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,12 +17,12 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 2175 images.
+The dataset includes 3150 images.
 Fire-poster-3J7y are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
-* Resize to 416x416 (Stretch)
+* Resize to 640x480 (Stretch)
 
 The following augmentation was applied to create 3 versions of each source image:
 * 50% probability of horizontal flip

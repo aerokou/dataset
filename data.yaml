@@ -8,6 +8,6 @@ names: ['fire-poster']
 roboflow:
   workspace: firedetect-elrsi
   project: tf-lite
-  version: 2
+  version: 3
   license: CC BY 4.0
-  url: https://universe.roboflow.com/firedetect-elrsi/tf-lite/dataset/2
+  url: https://universe.roboflow.com/firedetect-elrsi/tf-lite/dataset/3
